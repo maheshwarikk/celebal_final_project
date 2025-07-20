@@ -1,0 +1,661 @@
+[
+    {
+        "name": {
+            "common": "North Korea",
+            "official": "Democratic People's Republic of Korea",
+            "nativeName": {
+                "kor": {
+                    "official": "조선민주주의인민공화국",
+                    "common": "조선"
+                }
+            }
+        },
+        "tld": [
+            ".kp"
+        ],
+        "cca2": "KP",
+        "ccn3": "408",
+        "cioc": "PRK",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "KPW": {
+                "symbol": "₩",
+                "name": "North Korean won"
+            }
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "50"
+            ]
+        },
+        "capital": [
+            "Pyongyang"
+        ],
+        "altSpellings": [
+            "KP",
+            "Democratic People's Republic of Korea",
+            "DPRK",
+            "조선민주주의인민공화국",
+            "Chosŏn Minjujuŭi Inmin Konghwaguk",
+            "Korea, Democratic People's Republic of",
+            "북한",
+            "북조선"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "kor": "Korean"
+        },
+        "latlng": [
+            40.0,
+            127.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "CHN",
+            "KOR",
+            "RUS"
+        ],
+        "area": 120538.0,
+        "demonyms": {
+            "eng": {
+                "f": "North Korean",
+                "m": "North Korean"
+            },
+            "fra": {
+                "f": "Nord-coréenne",
+                "m": "Nord-coréen"
+            }
+        },
+        "cca3": "PRK",
+        "translations": {
+            "ara": {
+                "official": "جمهورية كوريا الديمقراطية الشعبية",
+                "common": "كوريا الشمالية"
+            },
+            "bre": {
+                "official": "Republik Poblel ha Demokratel Korea",
+                "common": "Korea an Norzh"
+            },
+            "ces": {
+                "official": "Korejská lidově demokratická republika",
+                "common": "Severní Korea"
+            },
+            "cym": {
+                "official": "Democratic People's Republic of Korea",
+                "common": "North Korea"
+            },
+            "deu": {
+                "official": "Demokratische Volksrepublik Korea",
+                "common": "Nordkorea"
+            },
+            "est": {
+                "official": "Korea Rahvademokraatlik Vabariik",
+                "common": "Põhja-Korea"
+            },
+            "fin": {
+                "official": "Korean demokraattinen kansantasavalta",
+                "common": "Pohjois-Korea"
+            },
+            "fra": {
+                "official": "République populaire démocratique de Corée",
+                "common": "Corée du Nord"
+            },
+            "hrv": {
+                "official": "Demokratska Narodna Republika Koreja",
+                "common": "Sjeverna Koreja"
+            },
+            "hun": {
+                "official": "Koreai Népi Demokratikus Köztársaság",
+                "common": "Észak-Korea"
+            },
+            "ind": {
+                "official": "Republik Rakyat Demokratik Korea",
+                "common": "Korea Utara"
+            },
+            "ita": {
+                "official": "Repubblica democratica popolare di Corea",
+                "common": "Corea del Nord"
+            },
+            "jpn": {
+                "official": "朝鮮民主主義人民共和国",
+                "common": "朝鮮民主主義人民共和国"
+            },
+            "kor": {
+                "official": "조선민주주의인민공화국",
+                "common": "조선"
+            },
+            "nld": {
+                "official": "Democratische Volksrepubliek Korea",
+                "common": "Noord-Korea"
+            },
+            "per": {
+                "official": "جمهوری دموکراتیک خلق کره",
+                "common": "کُره شمالی"
+            },
+            "pol": {
+                "official": "Koreańska Republika Ludowo-Demokratyczna",
+                "common": "Korea Północna"
+            },
+            "por": {
+                "official": "República Popular Democrática da Coreia",
+                "common": "Coreia do Norte"
+            },
+            "rus": {
+                "official": "Корейская Народно-Демократическая Республика Корея",
+                "common": "Северная Корея"
+            },
+            "slk": {
+                "official": "Kórejská ľudovodemokratická republika",
+                "common": "Severná Kórea"
+            },
+            "spa": {
+                "official": "República Popular Democrática de Corea",
+                "common": "Corea del Norte"
+            },
+            "srp": {
+                "official": "Демократска Народна Република Кореја",
+                "common": "Северна Кореја"
+            },
+            "swe": {
+                "official": "Demokratiska Folkrepubliken Korea",
+                "common": "Nordkorea"
+            },
+            "tur": {
+                "official": "Kore Demokratik Halk Cumhuriyeti",
+                "common": "Kuzey Kore"
+            },
+            "urd": {
+                "official": "جمہوری عوامی جمہوریہ کوریا",
+                "common": "شمالی کوریا"
+            },
+            "zho": {
+                "official": "朝鲜人民民主共和国",
+                "common": "朝鲜"
+            }
+        },
+        "flag": "🇰🇵",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192734"
+        },
+        "population": 25778815,
+        "fifa": "PRK",
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/kp.png",
+            "svg": "https://flagcdn.com/kp.svg",
+            "alt": "The flag of North Korea is composed of three horizontal bands — a large central white-edged red band, and a blue band above and beneath the red band. On the hoist side of the red band is a red five-pointed star within a white circle."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/kp.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/kp.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                39.02,
+                125.75
+            ]
+        },
+        "postalCode": {
+            "format": "###-###",
+            "regex": "^(\\d{6})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Ukraine",
+            "official": "Ukraine",
+            "nativeName": {
+                "ukr": {
+                    "official": "Україна",
+                    "common": "Україна"
+                }
+            }
+        },
+        "tld": [
+            ".ua",
+            ".укр"
+        ],
+        "cca2": "UA",
+        "ccn3": "804",
+        "cioc": "UKR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "UAH": {
+                "symbol": "₴",
+                "name": "Ukrainian hryvnia"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "80"
+            ]
+        },
+        "capital": [
+            "Kyiv"
+        ],
+        "altSpellings": [
+            "UA",
+            "Ukrayina"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "ukr": "Ukrainian"
+        },
+        "latlng": [
+            49.0,
+            32.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "BLR",
+            "HUN",
+            "MDA",
+            "POL",
+            "ROU",
+            "RUS",
+            "SVK"
+        ],
+        "area": 603500.0,
+        "demonyms": {
+            "eng": {
+                "f": "Ukrainian",
+                "m": "Ukrainian"
+            },
+            "fra": {
+                "f": "Ukrainienne",
+                "m": "Ukrainien"
+            }
+        },
+        "cca3": "UKR",
+        "translations": {
+            "ara": {
+                "official": "أوكرانيا",
+                "common": "أوكرانيا"
+            },
+            "bre": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "ces": {
+                "official": "Ukrajina",
+                "common": "Ukrajina"
+            },
+            "cym": {
+                "official": "Ukraine",
+                "common": "Ukraine"
+            },
+            "deu": {
+                "official": "Ukraine",
+                "common": "Ukraine"
+            },
+            "est": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "fin": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "fra": {
+                "official": "Ukraine",
+                "common": "Ukraine"
+            },
+            "hrv": {
+                "official": "Ukrajina",
+                "common": "Ukrajina"
+            },
+            "hun": {
+                "official": "Ukrajna",
+                "common": "Ukrajna"
+            },
+            "ind": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "ita": {
+                "official": "Ucraina",
+                "common": "Ucraina"
+            },
+            "jpn": {
+                "official": "ウクライナ",
+                "common": "ウクライナ"
+            },
+            "kor": {
+                "official": "우크라이나",
+                "common": "우크라이나"
+            },
+            "nld": {
+                "official": "Oekraïne",
+                "common": "Oekraïne"
+            },
+            "per": {
+                "official": "اوکراین",
+                "common": "اوکراین"
+            },
+            "pol": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "por": {
+                "official": "Ucrânia",
+                "common": "Ucrânia"
+            },
+            "rus": {
+                "official": "Украина",
+                "common": "Украина"
+            },
+            "slk": {
+                "official": "Ukrajina",
+                "common": "Ukrajina"
+            },
+            "spa": {
+                "official": "Ucrania",
+                "common": "Ucrania"
+            },
+            "srp": {
+                "official": "Украјина",
+                "common": "Украјина"
+            },
+            "swe": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "tur": {
+                "official": "Ukrayna",
+                "common": "Ukrayna"
+            },
+            "urd": {
+                "official": "یوکرین",
+                "common": "یوکرین"
+            },
+            "zho": {
+                "official": "乌克兰",
+                "common": "乌克兰"
+            }
+        },
+        "flag": "🇺🇦",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
+        },
+        "population": 44134693,
+        "gini": {
+            "2019": 26.6
+        },
+        "fifa": "UKR",
+        "car": {
+            "signs": [
+                "UA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ua.png",
+            "svg": "https://flagcdn.com/ua.svg",
+            "alt": "The flag of Ukraine is composed of two equal horizontal bands of blue and yellow."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ua.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ua.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                50.43,
+                30.52
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "United Kingdom",
+            "official": "United Kingdom of Great Britain and Northern Ireland",
+            "nativeName": {
+                "eng": {
+                    "official": "United Kingdom of Great Britain and Northern Ireland",
+                    "common": "United Kingdom"
+                }
+            }
+        },
+        "tld": [
+            ".uk"
+        ],
+        "cca2": "GB",
+        "ccn3": "826",
+        "cioc": "GBR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "GBP": {
+                "symbol": "£",
+                "name": "British pound"
+            }
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "capital": [
+            "London"
+        ],
+        "altSpellings": [
+            "GB",
+            "UK",
+            "Great Britain"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "latlng": [
+            54.0,
+            -2.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "IRL"
+        ],
+        "area": 242900.0,
+        "demonyms": {
+            "eng": {
+                "f": "British",
+                "m": "British"
+            },
+            "fra": {
+                "f": "Britannique",
+                "m": "Britannique"
+            }
+        },
+        "cca3": "GBR",
+        "translations": {
+            "ara": {
+                "official": "المملكة المتحدة لبريطانيا العظمى وايرلندا الشمالية",
+                "common": "المملكة المتحدة"
+            },
+            "bre": {
+                "official": "Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon",
+                "common": "Rouantelezh-Unanet"
+            },
+            "ces": {
+                "official": "Spojené království Velké Británie a Severního Irska",
+                "common": "Spojené království"
+            },
+            "cym": {
+                "official": "United Kingdom of Great Britain and Northern Ireland",
+                "common": "United Kingdom"
+            },
+            "deu": {
+                "official": "Vereinigtes Königreich Großbritannien und Nordirland",
+                "common": "Vereinigtes Königreich"
+            },
+            "est": {
+                "official": "Suurbritannia ja Põhja-Iiri Ühendkuningriik",
+                "common": "Suurbritannia"
+            },
+            "fin": {
+                "official": "Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta",
+                "common": "Yhdistynyt kuningaskunta"
+            },
+            "fra": {
+                "official": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+                "common": "Royaume-Uni"
+            },
+            "hrv": {
+                "official": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske",
+                "common": "Ujedinjeno Kraljevstvo"
+            },
+            "hun": {
+                "official": "Nagy-Britannia és Észak-Írország Egyesült Királysága",
+                "common": "Egyesült Királyság"
+            },
+            "ind": {
+                "official": "Perserikatan Kerajaan Britania Raya dan Irlandia Utara",
+                "common": "Britania Raya"
+            },
+            "ita": {
+                "official": "Regno Unito di Gran Bretagna e Irlanda del Nord",
+                "common": "Regno Unito"
+            },
+            "jpn": {
+                "official": "グレート·ブリテンおよび北アイルランド連合王国",
+                "common": "イギリス"
+            },
+            "kor": {
+                "official": "그레이트브리튼 북아일랜드 연합 왕국",
+                "common": "영국"
+            },
+            "nld": {
+                "official": "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland",
+                "common": "Verenigd Koninkrijk"
+            },
+            "per": {
+                "official": "پادشاهی متحد بریتانیای کبیر و ایرلند شمالی",
+                "common": "انگلیس"
+            },
+            "pol": {
+                "official": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+                "common": "Zjednoczone Królestwo"
+            },
+            "por": {
+                "official": "Reino Unido da Grã-Bretanha e Irlanda do Norte",
+                "common": "Reino Unido"
+            },
+            "rus": {
+                "official": "Соединенное Королевство Великобритании и Северной Ирландии",
+                "common": "Великобритания"
+            },
+            "slk": {
+                "official": "Spojené kráľovstvo Veľkej Británie a SevernéhoÌrska",
+                "common": "Veľká Británia (Spojené kráľovstvo)"
+            },
+            "spa": {
+                "official": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+                "common": "Reino Unido"
+            },
+            "srp": {
+                "official": "Уједињено Краљевство Велике Британије и Северне Ирске",
+                "common": "Уједињено Краљевство"
+            },
+            "swe": {
+                "official": "Förenade konungariket Storbritannien och Nordirland",
+                "common": "Storbritannien"
+            },
+            "tur": {
+                "official": "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı",
+                "common": "Birleşik Krallık"
+            },
+            "urd": {
+                "official": "مملکتِ متحدہ برطانیہ عظمی و شمالی آئرلینڈ",
+                "common": "مملکتِ متحدہ"
+            },
+            "zho": {
+                "official": "大不列颠及北爱尔兰联合王国",
+                "common": "英国"
+            }
+        },
+        "flag": "🇬🇧",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
+        },
+        "population": 67215293,
+        "gini": {
+            "2017": 35.1
+        },
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC-08:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00",
+            "UTC",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+06:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/gb.png",
+            "svg": "https://flagcdn.com/gb.svg",
+            "alt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/gb.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/gb.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                51.5,
+                -0.08
+            ]
+        },
+        "postalCode": {
+            "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+            "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+        }
+    }
+]
